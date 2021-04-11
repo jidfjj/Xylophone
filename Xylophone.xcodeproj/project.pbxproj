@@ -82,8 +82,7 @@
 		63C019C71C58DF76001F4187 /* Xylophone */ = {
 			isa = PBXGroup;
 			children = (
-				63C019C81C58DF76001F4187 /* AppDelegate.swift */,
-				63C019CA1C58DF76001F4187 /* VIewController.swift */,
+				77A15D312622D7CC00D27DEF /* Controller */,
 				63C019CC1C58DF76001F4187 /* Main.storyboard */,
 				63C019CF1C58DF76001F4187 /* Assets.xcassets */,
 				63C019D11C58DF76001F4187 /* LaunchScreen.storyboard */,
@@ -91,6 +90,15 @@
 				6385B12D1C68C76C00E57640 /* Sound Files */,
 			);
 			path = Xylophone;
+			sourceTree = "<group>";
+		};
+		77A15D312622D7CC00D27DEF /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				63C019C81C58DF76001F4187 /* AppDelegate.swift */,
+				63C019CA1C58DF76001F4187 /* VIewController.swift */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
